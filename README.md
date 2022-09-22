@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @echohub23
+- 👋 Hi, I’m Bharpur Dahiya
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
